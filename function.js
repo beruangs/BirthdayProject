@@ -1,8 +1,5 @@
 alert("Pencet Kue nya 🎂");
 
-// audio
-var audio = document.getElementById("HBD").autoplay;
-
 // buton
 const cake = document.getElementById(`cake`);
 const openbtn = document.getElementById(`openbtn`);
